@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      IMAGE_NAME: marak89/myapp
+      IMAGE_NAME: majkoautomato/myapp
 
     steps:
       - name: Checkout code
